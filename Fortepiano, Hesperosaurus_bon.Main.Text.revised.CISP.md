@@ -1,3 +1,25 @@
+---
+title: Oceanic Oscillations and Congo River Basin Climatology
+subject: Article
+short_title: Oceanic Oscillations
+authors:
+  - name: James Hartzell
+    orcid: 0000-0003-1901-7016
+  - name: Magda Altman
+    orcid: 0009-0002-0976-6427
+  - name: Dr. Rajiv Kumar Srivastava
+    affiliations:
+        -  University of Hohenheim
+    orcid: 0000-0002-5314-7634
+  - name: Pratik Bhandari
+    orcid: 0000-0001-5486-3352
+  - name: Jeffrey N. A. Aryee
+    affiliations:
+        -  Kwame Nkrumah University of Science and Technology
+    orcid: 0000-0002-4481-1441
+keywords: tides, congo, climate change
+---
+
 # Oceanic Oscillations and Congo River Basin Climatology
 
 According to the IPCC's 2021 report [](doi:10.1017/9781009157896), anthropogenic climate changeis and will increasingly have a significant impact on natural systems that support human wellbeing. The occurrence of extreme weather events induced by climate change have already had adverse effects on terrestrial, freshwater, ocean and coastal ecosystems.These extreme events have also reduced food security; contributed to migration and displacement; threatened livelihoods, the health and security of people; and increased inequality. Global temperature increases have affected sea surface temperature (SST) at the boundary between the ocean and atmosphere. SST directly influences the climate system, particularly atmospheric circulation, rainfall patterns, and storm intensity.

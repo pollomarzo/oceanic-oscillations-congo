@@ -1,0 +1,12 @@
+project:
+  authors:
+  - name: Franck Porteous
+  - name: Hannah Krohn
+  - name: Faith Hunja
+    orcid: 0000-0001-5747-0247
+  id: observing-ecco-model-vs-tide-gauges-affected-by-hurricane-maria
+  main: CISP2024-ECCO-TideGauges-HurricaneMaria-manuscript.md
+  title: Observing ECCO Model vs Tide Gauges Affected by Hurricane Maria
+site:
+  template: article-theme
+version: 1

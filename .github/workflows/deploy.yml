@@ -7,6 +7,7 @@ on:
   workflow_dispatch:
 env:
   SITE_PREFIX: /${{ github.event.repository.name }}
+  BASE_URL: "/${{ github.event.repository.name }}"
 
 permissions:
   contents: read

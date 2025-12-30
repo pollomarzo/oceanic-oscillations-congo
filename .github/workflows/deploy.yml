@@ -35,14 +35,14 @@ jobs:
           cache-environment: true
           cache-downloads: true
 
-      - name: Run build_site.py
-        run: python build_site.py
+      - name: Myst build
+        run: myst build --html
         shell: micromamba-shell {0}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "nexus"
+          path: "_build/html"
 
   deploy:
     environment:

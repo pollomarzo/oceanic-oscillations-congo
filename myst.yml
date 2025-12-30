@@ -7,6 +7,7 @@ project:
   id: observing-ecco-model-vs-tide-gauges-affected-by-hurricane-maria
   main: CISP2024-ECCO-TideGauges-HurricaneMaria-manuscript.md
   title: Observing ECCO Model vs Tide Gauges Affected by Hurricane Maria
+  github: https://github.com/pollomarzo/oceanic-oscillations-congo
 site:
   template: article-theme
 version: 1

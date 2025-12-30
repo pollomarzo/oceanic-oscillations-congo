@@ -1,12 +1,22 @@
 project:
   authors:
-  - name: Franck Porteous
-  - name: Hannah Krohn
-  - name: Faith Hunja
-    orcid: 0000-0001-5747-0247
+  - name: James Hartzell
+    orcid: 0000-0003-1901-7016
+  - name: Magda Altman
+    orcid: 0009-0002-0976-6427
+  - name: Dr. Rajiv Kumar Srivastava
+    affiliations:
+    - University of Hohenheim
+    orcid: 0000-0002-5314-7634
+  - name: Pratik Bhandari
+    orcid: 0000-0001-5486-3352
+  - name: Jeffrey N. A. Aryee
+    affiliations:
+    - Kwame Nkrumah University of Science and Technology
+    orcid: 0000-0002-4481-1441
   id: observing-ecco-model-vs-tide-gauges-affected-by-hurricane-maria
-  main: CISP2024-ECCO-TideGauges-HurricaneMaria-manuscript.md
-  title: Observing ECCO Model vs Tide Gauges Affected by Hurricane Maria
+  main: Fortepiano, Hesperosaurus_bon.Main.Text.revised.CISP.md
+  title: Oceanic Oscillations and Congo River Basin Climatology
   github: https://github.com/pollomarzo/oceanic-oscillations-congo
 site:
   template: article-theme

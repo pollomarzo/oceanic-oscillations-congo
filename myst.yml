@@ -22,5 +22,6 @@ project:
   title: Oceanic Oscillations and Congo River Basin Climatology
   github: https://github.com/pollomarzo/oceanic-oscillations-congo
 site:
-  template: article-theme
-version: 1
+  template: book-theme
+  options:
+    hide_toc: true

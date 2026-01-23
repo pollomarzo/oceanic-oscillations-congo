@@ -1,7 +1,8 @@
 version: 1
 extends:
-- https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/myst.yml
-# - ../scholar-nexus/nexus.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
+
 project:
   authors:
   - name: James Hartzell
@@ -18,10 +19,13 @@ project:
     affiliations:
     - Kwame Nkrumah University of Science and Technology
     orcid: 0000-0002-4481-1441
-  id: observing-ecco-model-vs-tide-gauges-affected-by-hurricane-maria
+  id: oceanic-oscillations-and-congo-river-basin-climatology
   title: Oceanic Oscillations and Congo River Basin Climatology
   github: https://github.com/pollomarzo/oceanic-oscillations-congo
-site:
-  template: book-theme
-  options:
-    hide_toc: true
+  bibliography:
+  - bib.bib
+  downloads:
+  - file: assets/Fortepiano, Hesperosaurus_bon.CSIP.zip
+    title: Code
+  # plugins:
+  # - github-issues.mjs

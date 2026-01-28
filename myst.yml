@@ -1,9 +1,11 @@
 version: 1
 extends:
 - https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
-- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/climatematch-2023.yml
 
 project:
+  doi: 10.5281/zenodo.12192494
+  date: 2024-06-20
   authors:
   - name: James Hartzell
     orcid: 0000-0003-1901-7016

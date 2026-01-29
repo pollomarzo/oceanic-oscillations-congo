@@ -26,10 +26,6 @@ abbreviations:
     CMA: Climatematch Academy
     WHOI: Woods Hole Oceanographic Institute
 abstract: ""
-keywords: 
-  - Tides
-  - Congo 
-  - Climate Change
 ---
 
 # Seminar presentation

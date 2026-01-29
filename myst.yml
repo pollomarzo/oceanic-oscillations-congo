@@ -29,5 +29,9 @@ project:
   downloads:
   - file: assets/Fortepiano, Hesperosaurus_bon.CSIP.zip
     title: Code
+  keywords:
+  - Tides
+  - Congo
+  - Climate Change
   # plugins:
   # - github-issues.mjs
